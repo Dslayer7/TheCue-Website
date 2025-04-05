@@ -31,3 +31,13 @@ yarn-error.log*
 # OS
 .DS_Store
 Thumbs.db
+
+# Firebase
+.firebaserc
+firebase-debug.log
+firebase-debug.*.log
+
+# Build files
+/build/
+/dist/
+*.map
